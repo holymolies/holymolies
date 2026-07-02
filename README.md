@@ -50,6 +50,6 @@ basic dni cerita, proshippers, darkshippers, trans & homophobic ppl, overly sens
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://64.media.tumblr.com/69fb8013f12fafe3012f60fa198dcb41/9da27e0ce1386fdd-78/s100x200/b2e395e86bb1c1e097bb6e5fb90d575945f04c0c.webp"><img src="https://64.media.tumblr.com/ee90460aaa4d0e834fb4966621e12294/a4bd96e78630b131-2e/s100x200/df9cac66f72b4e6e4ea4011b38854fb1b55b7ad8.gifv">
+    <img src="https://64.media.tumblr.com/977658a0c8342f07653324cb3686ac24/dcb0fe9c7460e0fa-46/s100x200/734dbd2f7043bb634c50dfc0904b0fec5940b517.gifv"><img src="https://64.media.tumblr.com/476ab5822679d6bf9efdd71ad4ce4bd0/a06e0415bb50c9d8-c5/s100x200/e91f759169e042ea4442f9ef58be438486b9804a.gifv">
   </a>
 </p>
