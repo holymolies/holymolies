@@ -21,8 +21,8 @@
 <img class="mb-3" style="height:85px" src="https://64.media.tumblr.com/a304187c524c7872c95bc6a7d0c72054/07c07bc7829a1d1a-00/s2048x3072/8d0416e8167e62bbb88f35c2b10cf3bfe84cc78f.pnj">
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31salu7glfup6rblt3on7vxsqkh4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=db0f0f&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31salu7glfup6rblt3on7vxsqkh4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31salu7glfup6rblt3on7vxsqkh4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=d3c697&bar_color_cover=false">
   </a>
 </p>
 
