@@ -6,16 +6,16 @@
 <body>
   
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1327433283411382303/1488384066637008936/Untitled784_20260330224228.png?ex=6a3bfbee&is=6a3aaa6e&hm=e821caf66b196648b3fb142432516bf7c7d426b57e35ca5f6a87f6fd3b93b2d2&=&format=webp&quality=lossless&width=488&height=325" width="700">
+  <img src="https://media.discordapp.net/attachments/1327433283411382303/1522042326674047156/Untitled820_20260701195236.png?ex=6a4707e0&is=6a45b660&hm=624624cbeaf69a7a0ab8e68b2242beab353b5770816f4aabdddc829f26180485&=&format=webp&quality=lossless&width=854&height=854" width="700">
 </p>
 
 
 <p align="center">
-   <br> ${\textsf{\color{#FF0000}snipes　༒︎　he　/　him　 ༒︎　 minor  ! ! }}$ 
+   <br> ${\textsf{\color{#FFFFFF}snipes　༒︎　he　/　him　 ༒︎　 minor  ! ! }}$ 
  <br>
  
 
-<h2>${\textsf{\color{#FF0000}†˚ʚ(՞ ܸ. . ܸ՞)ɞ˚† . .}}$</h2>
+<h2>${\textsf{\color{#FFFFFF}†˚ʚ(՞ ܸ. . ܸ՞)ɞ˚† . .}}$</h2>
 
 <img class="mb-3" style="height:85px" src="https://64.media.tumblr.com/c24062d65ac04f6d26eb454f0dd65187/3f568529a5f57167-81/s400x600/cbd1c2b0ad7f5cbac79d13b9e0e70889c0a8ebec.gifv">
 
@@ -29,7 +29,7 @@
 
 <details align="center">
 
-<summary>ㅤ ${\textsf{\color{#FF0000}﹕ 𝄞 ˶ ૮๑ˊᯅˋ๑ა . . info ˶ ༉ ﹕}}$ </summary
+<summary>ㅤ ${\textsf{\color{#FFFFFF}﹕ 𝄞 ˶ ૮๑ˊᯅˋ๑ა . . info ˶ ༉ ﹕}}$ </summary
 
   <a href="" target="_blank">
 
