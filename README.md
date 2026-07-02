@@ -34,7 +34,7 @@
 
   <a href="" target="_blank">
 
-call me ***sni****pes* or mun**dy**!!
+call me ***sni****pes* or **V**!!
 
 hihihihi so uhh m a very cool person, I love talking and joking around, m a HUGE geek, and a fictkin(doubles can int!!), i like being mean but not in a way thats srs, I also tend to joke around romantically but depends on who m with. u can freely whisper to me orr int, I dont mind!! M sometimes too nervous or shy to talk soo.. plz if u can int first I WONT BITE I PROMISE!! 
 
